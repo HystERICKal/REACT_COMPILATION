@@ -1,5 +1,6 @@
-REACT ADMIN DASHBOARD  
+# REACT ADMIN DASHBOARD  
 
+## INSTALLATIONS  
 #npx create-react-app .  
     -The dot is for specifying that the installation should happen in this folder  
 
