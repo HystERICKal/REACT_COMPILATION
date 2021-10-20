@@ -1,6 +1,6 @@
 # REACT_COMPILATION
 
--> </npx create-react-app .>  
+-> npx create-react-app .  
 -> Dot means that its gonna install in that folder  
 
 ->Select fonts from google (Josefine-[none-italic fonts], Lora-[italic fonts], Varela-both varelas)  
